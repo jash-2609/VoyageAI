@@ -1,14 +1,3 @@
-# AI Trip Planner
-
-Welcome to **AI Trip Planner**, a smart and sleek trip planning application designed to simplify your travel planning experience. Built with **React**, **Gemini AI**, **Firebase**, and **TailwindCSS**, this project is perfect for developers looking to level up their skills! 🚀🌟
-
-## Table of Contents
-
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Installation Steps](#installation-steps)
-- [How to Use](#how-to-use)
 
 
 ## Key Features
@@ -36,8 +25,3 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (LTS recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-### Installation Steps
-
- Clone the repository:
-   ```sh
-   git clone https://github.com/mannye3/AI-Trip-Planner.git
